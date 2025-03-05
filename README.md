@@ -6,7 +6,7 @@ This project was created as part of a university course.
 
 ## Project Structure
 
-- `data/`: Contains the dataset and any data preprocessing scripts.
+- `data/`: Contains the dataset and any data preprocessing scripts [Get dataset from: "http://isb.pub.ro/docs/housing.tgz" ].
 - `models/`: Saved machine learning models.
 - `notebooks/`: Jupyter notebooks used for data analysis, model training, and evaluation.
 - `README.md`: Project documentation.
